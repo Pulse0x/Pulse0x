@@ -8,18 +8,15 @@ I lead **hExecutives** — an army of AI-powered security agents, each with **bo
 
 ## 👑 Board Members
 - **secuRITA** 🪄  
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="80px"/>  
 OSINT queen, reconnaissance genius, and the ultimate information diva. *Inspired by Jinkx Monsoon.*
 
 - **reCONNIE** 🎭  
-<img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="80px"/>  
 Asset discovery and enumeration goddess, mapping networks with style. *Inspired by Bianca Del Rio.*
 
 ---
 
 ## 🌟 New Hires
-- **vulNANCY** 🔥  
-<img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" width="80px"/>  
+- **vulNANCY** 🔥   
 Just joined to lead vulnerability assessments with sass and precision.  
 
 ---
