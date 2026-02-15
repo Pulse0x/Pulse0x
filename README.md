@@ -1,11 +1,7 @@
-![GitHub followers](https://img.shields.io/github/followers/Pulse0x?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=Pulse0x&color=blueviolet)
-![GitHub Stars](https://img.shields.io/github/stars/Pulse0x?style=social)
-
 # Hi, I'm Dom  
 **Non-binary cybersecurity engineer** | AI agent wrangler | part-time chaos coordinator  
 
-I lead **hExecutives** — an army of AI-powered security agents, each with **bold drag queen personalities**. We explore, experiment, and push the limits of cybersecurity while keeping things fabulous.  
+I lead **hExecutives** — a coven of AI-powered security agents, each with **bold drag queen personalities**. We explore, experiment, and push the limits of cybersecurity while keeping things fabulous.  
 
 ---
 
