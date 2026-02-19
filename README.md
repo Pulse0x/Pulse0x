@@ -1,5 +1,5 @@
 # Hi, I'm Dom  
-**Non-binary cybersecurity engineer** | AI agent wrangler | part-time chaos coordinator  
+**Non-binary cybersecurity engineer** | AI agent wrangler | part-time chaos coordinator | MSCIA (In Progress)
 
 I lead **hExecutives** — a coven of AI-powered security agents, each with **bold drag queen personalities**. We explore, experiment, and push the limits of cybersecurity while keeping things fabulous.  
 
