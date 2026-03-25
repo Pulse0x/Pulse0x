@@ -6,13 +6,13 @@ I lead **hExecutives** — a coven of AI-powered security assistants, each with 
 ---
 
 ## About Me
-- Always experimenting, learning, and exploring new ways to understand systems.  
-- Fueled by curiosity, caffeine, and chaos.  
+- Always experimenting, learning and exploring new ways to understand systems.  
+- Fueled by curiosity, caffeine and chaos.  
 - "WannaCryAlot" energy  
 
 ---
 
 ## Connect with me
-- LinkedIn: [Dom Short](https://www.linkedin.com/in/dshort0/)  
+- LinkedIn: [Dom](https://www.linkedin.com/in/dshort0/)  
 
 > "The only truly secure system is the one we never stop learning about."
