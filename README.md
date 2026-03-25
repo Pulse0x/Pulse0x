@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dom</h1>
 
 <p align="center">
-  <b>Non-binary cybersecurity engineer</b> &nbsp;·&nbsp; AI agent wrangler &nbsp;·&nbsp; part-time chaos coordinator &nbsp;·&nbsp; MSCIA (In Progress)
+  <b>Non-binary cybersecurity engineer</b> &nbsp;·&nbsp; AI agent wrangler &nbsp;·&nbsp; full-time chaos coordinator &nbsp;·&nbsp; MSCIA (In Progress)
 </p>
 
 ---
