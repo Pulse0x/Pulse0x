@@ -12,7 +12,7 @@ I get bored and build things to make my life easier. When I'm not doing that, I'
 
 ## Featured: theFox_plugin (Claude Cowork)
 
-**theFox_plugin** is a **privacy-first job search helper** built for people who want to prioritize **inclusive and LGBTQ+ friendly employers**—without handing over a bunch of personal data to do it.
+**theFox_plugin** is a **privacy-first job search helper** built for people who want to prioritize **inclusive and LGBTQ+ friendly employers** without handing over a bunch of personal data to do it.
 
 It runs in **Claude Cowork** and is designed with a simple principle: **keep sensitive context local, share only what’s necessary**.
 
