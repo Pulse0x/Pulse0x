@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dom</h1>
 
 <p align="center">
-  <b>Non-binary cybersecurity engineer</b> &nbsp;·&nbsp; AI agent wrangler &nbsp;·&nbsp; full-time chaos coordinator &nbsp;·&nbsp; MSCIA (In Progress)
+  <b>Non-binary Product Security Engineer</b> &nbsp;·&nbsp; AI agent wrangler &nbsp;·&nbsp; full-time chaos coordinator &nbsp;·&nbsp; MS:Cybersecurity and Information Assurance
 </p>
 
 ---
@@ -43,6 +43,7 @@ theFox_plugin is my attempt to make that process **faster, calmer and more priva
 - Always experimenting, learning and exploring new ways to understand systems
 - Fueled by curiosity, caffeine and chaos
 - "WannaCryAlot" energy
+- Focused on SSDLC efforts. Ensuring security is considered before it ever enters a repo.
 
 ---
 
