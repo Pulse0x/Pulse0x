@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dom</h1>
 
 <p align="center">
-  <b>Non-binary Product Security Engineer</b> &nbsp;·&nbsp; AI agent wrangler &nbsp;·&nbsp; full-time chaos coordinator &nbsp;·&nbsp; MS:Cybersecurity and Information Assurance
+  <b>Non-binary Product Security Engineer</b> &nbsp;·&nbsp; full-time chaos coordinator &nbsp;·&nbsp; I collect certs with the same passion I used when collecting MTG cards &nbsp;·&nbsp; MS:Cybersecurity and Information Assurance
 </p>
 
 ---
@@ -32,7 +32,7 @@ It runs in **Claude Cowork** and is designed with a simple principle: **keep sen
 
 ### Why I’m building it
 
-Job searching can already be exhausting. For LGBTQ+ folks, it can also carry extra risk: wasted time, emotional labor, and the need to constantly assess whether a company is safe and affirming.
+Job searching is exhausting. For those in the Rainbow Mafia (aka LGBTQ+ folks), it can also carry extra risk: wasted time, emotional labor and the need to constantly assess whether a company is safe and affirming. You **deserve** to work for an employer that respects and values you **exactly** as you are.
 
 theFox_plugin is my attempt to make that process **faster, calmer and more private-by-default**.
 
@@ -41,8 +41,8 @@ theFox_plugin is my attempt to make that process **faster, calmer and more priva
 ### About Me
 
 - Always experimenting, learning and exploring new ways to understand systems
-- Fueled by curiosity, caffeine and chaos
-- "WannaCryAlot" energy
+- Fueled by curiosity and caffeine.
+- I've got "WannaCryAlot" energy (Even baddies get saddies)
 - Focused on SSDLC efforts. Ensuring security is considered before code ever enters a repo.
 
 ---
