@@ -43,7 +43,7 @@ theFox_plugin is my attempt to make that process **faster, calmer and more priva
 - Always experimenting, learning and exploring new ways to understand systems
 - Fueled by curiosity, caffeine and chaos
 - "WannaCryAlot" energy
-- Focused on SSDLC efforts. Ensuring security is considered before it ever enters a repo.
+- Focused on SSDLC efforts. Ensuring security is considered before code ever enters a repo.
 
 ---
 
